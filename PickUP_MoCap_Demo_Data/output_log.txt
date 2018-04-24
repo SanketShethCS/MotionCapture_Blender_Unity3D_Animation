@@ -1,0 +1,35 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     4064 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\nolan\Documents\MotionCapture\PickUP_MoCap_Demo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\nolan\Documents\MotionCapture\PickUP_MoCap_Demo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\nolan\Documents\MotionCapture\PickUP_MoCap_Demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\nolan\Documents\MotionCapture\PickUP_MoCap_Demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\nolan\Documents\MotionCapture\PickUP_MoCap_Demo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\nolan\Documents\MotionCapture\PickUP_MoCap_Demo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\nolan\Documents\MotionCapture\PickUP_MoCap_Demo_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\nolan\Documents\MotionCapture\PickUP_MoCap_Demo_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\nolan\Documents\MotionCapture\PickUP_MoCap_Demo_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\nolan\Documents\MotionCapture\PickUP_MoCap_Demo_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\nolan\Documents\MotionCapture\PickUP_MoCap_Demo_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\nolan\Documents\MotionCapture\PickUP_MoCap_Demo_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.022 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.787260 ms
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 360 -> priority: 1 
+  Thread -> id: 23d0 -> priority: 1 
+  Thread -> id: f70 -> priority: 1 
+  Thread -> id: 17c0 -> priority: 1 
